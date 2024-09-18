@@ -29,7 +29,7 @@ This is how you add comments to MarkDown on GitHub.
  
 ### Some basic statistics 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=chcheetah&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=dark)](https://github.com/harshivchandra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=harshivchandra&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=dark)](https://github.com/harshivchandra/github-readme-stats)
 
 ### My top languages
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harshivchandra&layout=compact&theme=dark)](https://github.com/chcheetah/github-readme-stats)
