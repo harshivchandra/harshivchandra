@@ -12,17 +12,19 @@ This is how you add comments to MarkDown on GitHub.
 
 <h4>🔭 🌱 Right now, I'm elbows deep in projects exploring the fascinating worlds of Machine Learning (ML) and Deep Learning (DL). </h4>
 
-<h4>📕 I have recently published a paper in a Q1 journal, the details of which can be found <a href = "https://ieeexplore.ieee.org/document/10239153">here.</a></h4>
+<h4>📕 I have published a paper in a Q1 journal, the details of which can be found <a href = "https://ieeexplore.ieee.org/document/10239153">here.</a></h4>
 
 <h4>📕 Here is another paper that I presented at AICAS 2024, the details of which can be found <a href = "https://ieeexplore.ieee.org/document/10595951">here.</a></h4>
 
+<h4>📕 I have recently published another paper in a Q1 journal, the details of which can be found <a href = "https://www.sciencedirect.com/science/article/abs/pii/S1746809424013260">here.</a></h4>
+
 <h4>👓 I am also a journal reviewer in my free time. 🤓</h4>
 
-<h4>👯 I'm all ears for exciting collaborations. Just drop me a message <a href="https://chcheetah.github.io/contact.html">here</a>. </h4>
+<h4>👯 I'm all ears for exciting collaborations. Just drop me a message <a href="https://harshiv.ch/contact.html">here</a>. </h4>
  
 <h3>💡 If you've got an interesting project brewing, let's make tech magic happen! </h3>
 
-<h3>🗯️ <i> Psst : don't forget to visit my website <a href="https://chcheetah.github.io"> over here 😃 </a> </i> </h3>
+<h3>🗯️ <i> Psst : don't forget to visit my website <a href="https://harshiv.ch"> over here 😃 </a> </i> </h3>
 
 <h3> 🧰 Update (10/09/2024): My website is currently undergoing specific changes, wrt to the tech used and the UI. Stay tuned for the new site 😄 </h3>
 
