@@ -26,7 +26,10 @@ This is how you add comments to MarkDown on GitHub.
 
 <h3>🗯️ <i> Psst : don't forget to visit my website <a href="https://harshiv.ch"> over here 😃 </a> </i> </h3>
 
-<h3> 🧰 Update (10/09/2024): My website is currently undergoing specific changes, wrt to the tech used and the UI. Stay tuned for the new site 😄 </h3>
+<h3> 🧰 Update (19/02/2025) : New Website Live!!!</h3>
+<h3> 🧰 Update (23/03/2025) : Check out my latest project, SoundScape Explorer <a href="https://www.harshiv.ch/projects/soundscape"> here </a>! Its a work in progress (WIP) with more coming soon 😃 !!!</h3>
+
+
 
  
 ### Some basic statistics 
